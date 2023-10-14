@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-        background-color: lightsalmon;
+    background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
 }
 .card-img-top{
     border-radius: 50px;
